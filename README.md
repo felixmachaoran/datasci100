@@ -32,10 +32,10 @@ Each group is expected to prepare a 1 page (max 500 words) written proposal that
 - _Using only training data_, visualize the data with at least one plot relevant to the analysis you plan to do (this is exploratory data analysis). An example of a useful visualization could be one that compares the distributions of each of the predictor variables you plan to use in your analysis.
 
 **Methods:**
-- Explain how you will conduct either your data analysis and which variables/columns you will use. <u> Note - you do not need to use all variables/columns that exist in the raw data set. In fact, that's often not a good idea. For each variable think: is this a useful variable for prediction?</u>
+- Explain how you will conduct either your data analysis and which variables/columns you will use.  Note - you do not need to use all variables/columns that exist in the raw data set. In fact, that's often not a good idea. For each variable think: is this a useful variable for prediction?
 - Describe at least one way that you will visualize the results
-**Expected outcomes and significance:**
 
+**Expected outcomes and significance:**
 - What do you expect to find?
 - What impact could such findings have?
 - What future questions could this lead to?
