@@ -6,7 +6,7 @@
 * Johnson Chen
 * Emma Jarek-Simard
 * Jayden Fung
-ddd
+dd
 
 ## Proposal
 
